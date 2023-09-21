@@ -65,6 +65,7 @@ void merge(int arr[], int l,
 	}
 }
 
+/*
 // l is for left index and r is
 // right index of the sub-array
 // of arr to be sorted
@@ -110,3 +111,4 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+*/
